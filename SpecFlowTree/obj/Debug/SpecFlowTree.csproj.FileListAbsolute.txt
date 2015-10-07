@@ -1,0 +1,9 @@
+C:\Users\markusroth\documents\visual studio 2012\Projects\SpecFlowTree\SpecFlowTree\obj\Debug\SpecFlowTree.csprojResolveAssemblyReference.cache
+C:\Users\markusroth\documents\visual studio 2012\Projects\SpecFlowTree\SpecFlowTree\bin\Debug\SpecFlowTree.dll.config
+C:\Users\markusroth\documents\visual studio 2012\Projects\SpecFlowTree\SpecFlowTree\bin\Debug\SpecFlowTree.dll
+C:\Users\markusroth\documents\visual studio 2012\Projects\SpecFlowTree\SpecFlowTree\bin\Debug\SpecFlowTree.pdb
+C:\Users\markusroth\documents\visual studio 2012\Projects\SpecFlowTree\SpecFlowTree\bin\Debug\nunit.framework.dll
+C:\Users\markusroth\documents\visual studio 2012\Projects\SpecFlowTree\SpecFlowTree\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\markusroth\documents\visual studio 2012\Projects\SpecFlowTree\SpecFlowTree\bin\Debug\nunit.framework.xml
+C:\Users\markusroth\documents\visual studio 2012\Projects\SpecFlowTree\SpecFlowTree\obj\Debug\SpecFlowTree.dll
+C:\Users\markusroth\documents\visual studio 2012\Projects\SpecFlowTree\SpecFlowTree\obj\Debug\SpecFlowTree.pdb
