@@ -7038,7 +7038,7 @@
             then displays the constraint description and the value.
             
             Constraints that need to provide additional details,
-            such as where the error occured can override this.
+            such as where the error occurred can override this.
             </summary>
             <param name="writer">The MessageWriter on which to display the message</param>
         </member>
@@ -9684,7 +9684,7 @@
         </member>
         <member name="F:NUnit.Framework.Constraints.NUnitEqualityComparer.failurePoints">
             <summary>
-            List of points at which a failure occured.
+            List of points at which a failure occurred.
             </summary>
         </member>
         <member name="F:NUnit.Framework.Constraints.NUnitEqualityComparer.recursionDetector">
